@@ -1,0 +1,47 @@
+/* CSS Document */
+
+/* Reset */ 
+header, h1, body, head {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+
+
+header {
+    background-color: #0F0C05;
+    min-height: 550px;
+	background-image: url("../Images/EditedPH/Header VioloHead.png");
+	background-position: 75% 55.5%;
+	background-size: cover; 
+	background-repeat: no-repeat;
+}
+header  {
+	color: #FFF6E7; 
+	font-size: 200%;
+	text-decoration: 2px underline;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}
