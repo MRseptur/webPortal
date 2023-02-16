@@ -1,21 +1,47 @@
 /* CSS Document */
 
 /* Reset */ 
-header, h1, body, head {
+body, header, nav, main, footer, h1, div, img, ul, figure, figcaption, section, article, aside, a {
 	padding: 0;
 	margin: 0;
 	border: 0;
 }
 
 
+.naiv {
+	background-color: #161512;
+	color: #FFE2B1;
+	text-decoration: none;
+}
+ nav {
+        padding: 1%; 
+    }
+
+nav ul {
+        list-style-type: none;
+        margin: 0; 
+	text-align: center;
+}
+nav li {
+        font-size: 3em;
+        
+        display: inline-block;
+    }
+ nav li a {
+        padding: .2em .5em;
+        display: block;
+        color: #FFE2B1; 
+        text-decoration: none;
+    }
 
 header {
     background-color: #0F0C05;
     min-height: 550px;
-	background-image: url("../images/HeaderVioloHead.png");
+	background-image: url("../Images/EditedPH/HeaderVioloHead.png");
 	background-position: 75% 55.5%;
 	background-size: cover; 
 	background-repeat: no-repeat;
+	text-decoration: none;
 }
 header  {
 	color: #FFF6E7; 
@@ -24,9 +50,13 @@ header  {
 	}
 	
 	
+body{ 
+background-color: #21201D}
 	
-	
-	
+header h1 {
+	color:#FFF6E7; 
+	text-decoration: none;
+}
 	
 	
 	
